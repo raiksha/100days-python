@@ -30,8 +30,8 @@ Cada carpeta `day-XXX/` contiene:
 
 | Día | Tema | Estado |
 |-----|------|--------|
-| 001 | Working with Variables | 🔄 |
-| 002 | Understanding Data Types | ⬜ |
+| 001 | Working with Variables | ✅ |
+| 002 | Understanding Data Types | 🔄 |
 | 003 | Control Flow and Logical Operators | ⬜ |
 | 004 | Randomisation and Python Lists | ⬜ |
 | 005 | Python Loops | ⬜ |
